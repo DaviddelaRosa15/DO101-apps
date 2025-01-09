@@ -64,5 +64,5 @@ nb-configuration.xml
 ########
 node_modules
 .env
-package.json
-package-lock.json
+**/package.json
+**/package-lock.json
